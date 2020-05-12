@@ -25,10 +25,10 @@
     "minor": "npm version minor -m 'update version: %s'"
   },
   "peerDependencies": {
-    "formik": "^1.2.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "semantic-ui-react": "^0.86.0 || ^0.87.0"
+    "formik": "^1.5.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "semantic-ui-react": "^0.86.0 || ^0.87.0 || ^0.88.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -42,12 +42,12 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "cross-env": "^5.1.4",
-    "formik": "^1.2.0",
+    "formik": "^1.5.8",
     "gh-pages": "^1.2.0",
     "moment": "^2.24.0",
-    "react": "^16.4.2",
+    "react": "^16.13.1",
     "react-dates": "^20.3.0",
-    "react-dom": "^16.4.2",
+    "react-dom": "^16.13.1",
     "react-dropzone": "^5.0.1",
     "react-scripts": "^1.1.5",
     "react-testing-library": "^5.0.1",
@@ -61,8 +61,8 @@
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-postcss": "^1.6.2",
     "rollup-plugin-url": "^1.4.0",
-    "semantic-ui-css": "^2.3.3",
-    "semantic-ui-react": "^0.86.0"
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2"
   },
   "dependencies": {
     "hoist-non-react-statics": "^3.3.0",
